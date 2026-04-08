@@ -1,4 +1,4 @@
-# Hello, I'm Bruno Kweka
+# Hello, I'm Kweka Bruno
 <a href="https://linkedin.com/in/brunokweka"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I’m a cybersecurity enthusiast focused on hands‑on labs, detection engineering, and security analysis.
@@ -15,12 +15,11 @@ To build strong, hands‑on cybersecurity skills through practical labs, detecti
 
 | Skill                                         | Associated Project |
 |-----------------------------------------------|--------------------|
-| SIEM Log Ingestion & Detection Engineering    | <a href="https://github.com/brunokweka/home-lab">Home Security Lab</a> |
-| Sysmon Configuration & Endpoint Monitoring    | <a href="https://github.com/brunokweka/home-lab">Home Security Lab</a> |
-| Network Traffic Analysis (Wireshark/Nmap)     | <a href="https://github.com/brunokweka/home-lab">Home Security Lab</a> |
-| Windows Forensics & Artifact Analysis         | <a href="https://github.com/brunokweka/forensics-practice">Forensics Practice</a> |
-| Security Automation (Python/Bash)             | <a href="https://github.com/brunokweka/blockchain-security-research">Automation Scripts</a> |
-| Incident Response Workflow Practice           | <a href="https://github.com/brunokweka/home-lab">Home Security Lab</a> |
+| SIEM Log Ingestion & Detection Engineering    | <a href="https://github.com/brunokweka/home-lab">In Progress</a> |
+| Sysmon Configuration & Endpoint Monitoring    | <a href="https://github.com/brunokweka/home-lab">In Progress</a> |
+| Network Traffic Analysis (Wireshark/Nmap)     | <a href="https://github.com/brunokweka/home-lab">In Progress</a> |
+| Windows Forensics & Artifact Analysis         | <a href="https://github.com/brunokweka/forensics-practice">In Progress</a> |
+| Incident Response Workflow Practice           | <a href="https://github.com/brunokweka/home-lab">IN Progress</a> |
 
 ---
 
