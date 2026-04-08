@@ -54,12 +54,6 @@ To build strong, hands‑on cybersecurity skills through practical labs, detecti
     <img src="https://img.shields.io/badge/-Metasploit-0078D4?&style=for-the-badge&logo=metasploit&logoColor=white" />
 </div>
 
-### Scripting & Automation
-<div>
-    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=gnu-bash&logoColor=white" />
-    <img src="https://img.shields.io/badge/-SQL-00758F?&style=for-the-badge&logo=postgresql&logoColor=white" />
-</div>
 
 ---
 
