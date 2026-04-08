@@ -61,7 +61,7 @@ To build strong, hands‑on cybersecurity skills through practical labs, detecti
 
 ### 🔍 Home Security Lab  
 A multi‑VM environment for practicing detection engineering and monitoring.  
-🔗 https://github.com/brunokweka/home-lab
+🔗 [https://github.com/brunokweka/home-lab](https://github.com/enigmamind/home-lab)
 
 ### 🧩 Windows Forensics Practice  
 Hands‑on analysis of Windows artifacts and event logs.  
