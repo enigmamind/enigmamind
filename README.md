@@ -19,7 +19,7 @@ To build strong, hands‑on cybersecurity skills through practical labs, detecti
 | Sysmon Configuration & Endpoint Monitoring    | <a href="https://github.com/brunokweka/home-lab">In Progress</a> |
 | Network Traffic Analysis (Wireshark/Nmap)     | <a href="https://github.com/brunokweka/home-lab">In Progress</a> |
 | Windows Forensics & Artifact Analysis         | <a href="https://github.com/brunokweka/forensics-practice">In Progress</a> |
-| Incident Response Workflow Practice           | <a href="https://github.com/brunokweka/home-lab">IN Progress</a> |
+| Incident Response Workflow Practice           | <a href="https://github.com/brunokweka/home-lab">In Progress</a> |
 
 ---
 
