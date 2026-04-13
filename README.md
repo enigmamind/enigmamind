@@ -57,17 +57,14 @@ To build strong, hands‑on cybersecurity skills through practical labs, detecti
 ---
 
 ## Projects
-
 ### 🔍 Home Security Lab  
 A multi‑VM environment for practicing detection engineering and monitoring.  
 🔗 [https://github.com/brunokweka/home-lab](https://github.com/enigmamind/home-lab)
 
 ### 🛡️ Cyber Threat Hunting (Splunk + BOTS v2)
-An exercise which uncover hidden threats that evade firewalls, IDS and antivirus
-🔗 [https://github.com/brunokweka/threat-hunt]
+An exercise for uncover hidden threats that evade firewalls, IDS and antivirus
 
-
-
+🔗 [https://github.com/brunokweka/threat-hunt](https://github.com/enigmamind/threat-hunt)
 
 
 ---
