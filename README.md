@@ -62,9 +62,8 @@ To build strong, hands‑on cybersecurity skills through practical labs, detecti
 A multi‑VM environment for practicing detection engineering and monitoring.  
 🔗 [https://github.com/brunokweka/home-lab](https://github.com/enigmamind/home-lab)
 
-### 🧩 Windows Forensics Practice  
-Hands‑on analysis of Windows artifacts and event logs.  
-🔗 https://github.com/brunokweka/forensics-practice
+### 🛡️ Cyber Threat Hunting (Splunk + BOTS v2)
+ An exercise which uncover hidden threats that evade firewalls, IDS and antivirus
 
 ---
 
