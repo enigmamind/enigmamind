@@ -63,7 +63,12 @@ A multi‑VM environment for practicing detection engineering and monitoring.
 🔗 [https://github.com/brunokweka/home-lab](https://github.com/enigmamind/home-lab)
 
 ### 🛡️ Cyber Threat Hunting (Splunk + BOTS v2)
- An exercise which uncover hidden threats that evade firewalls, IDS and antivirus
+An exercise which uncover hidden threats that evade firewalls, IDS and antivirus
+🔗 [https://github.com/brunokweka/threat-hunt]
+
+
+
+
 
 ---
 
