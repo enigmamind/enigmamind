@@ -1,4 +1,4 @@
-# Hello, I'm Kweka Bruno
+# Hello, I'm Bruno
 <a href="https://linkedin.com/in/brunokweka"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I’m a cybersecurity enthusiast focused on hands‑on labs, detection engineering, and security analysis.
