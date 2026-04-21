@@ -11,17 +11,6 @@ To build strong, hands‑on cybersecurity skills through practical labs, detecti
 
 ---
 
-## Skills
-
-| Skill                                         | Associated Project |
-|-----------------------------------------------|--------------------|
-| SIEM Log Ingestion & Detection Engineering    | <a href="https://github.com/brunokweka/home-lab">In Progress</a> |
-| Sysmon Configuration & Endpoint Monitoring    | <a href="https://github.com/brunokweka/home-lab">In Progress</a> |
-| Network Traffic Analysis (Wireshark/Nmap)     | <a href="https://github.com/brunokweka/home-lab">In Progress</a> |
-| Windows Forensics & Artifact Analysis         | <a href="https://github.com/brunokweka/forensics-practice">In Progress</a> |
-| Incident Response Workflow Practice           | <a href="https://github.com/brunokweka/home-lab">In Progress</a> |
-
----
 
 ## Tools
 
@@ -35,15 +24,11 @@ To build strong, hands‑on cybersecurity skills through practical labs, detecti
 ### Endpoint & Forensics
 <div>
     <img src="https://img.shields.io/badge/-Sysmon-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Volatility-00A4EF?&style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Wazuh-FF6600?&style=for-the-badge&logo=Wazuh&logoColor=white" />
 </div>
 
 ### Security Testing
