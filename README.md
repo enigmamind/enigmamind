@@ -53,6 +53,10 @@ An exercise for uncover hidden threats that evade firewalls, IDS and antivirus
 
 🔗 [https://github.com/brunokweka/threat-hunt](https://github.com/enigmamind/threat-hunt)
 
+### 🕵️ Vulnerability Assessment Lab 
+Demonstrates the full vulnerability management lifecycle using Nessus on Linux for scanning, analysis, and reporting
+
+🔗 [https://github.com/brunokweka/threat-hunt](https://github.com/enigmamind/threat-hunt)
 
 ---
 
