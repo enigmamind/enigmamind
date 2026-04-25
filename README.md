@@ -24,7 +24,9 @@ To build strong, hands‑on cybersecurity skills through practical labs, detecti
 ### Endpoint & Forensics
 <div>
     <img src="https://img.shields.io/badge/-Sysmon-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nessus-FF6B35?&style=for-the-badge&logo=tenable&logoColor=white" />
 </div>
+
 
 ### SIEM
 <div>
