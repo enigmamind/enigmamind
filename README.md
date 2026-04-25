@@ -1,13 +1,13 @@
 # Hello, I'm Bruno
 <a href="https://linkedin.com/in/brunokweka"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I’m a cybersecurity enthusiast focused on hands‑on labs, detection engineering, and security analysis.
+I'm a cybersecurity enthusiast passionate about hands-on learning. I focus on building skills in detection engineering, practical labs, and security analysis, documenting my journey through real-world projects.
 
 ---
 
 ## Objective
 
-To build strong, hands‑on cybersecurity skills through practical labs, detection engineering, and security analysis — and to document that work through real projects.
+To master cybersecurity through hands-on labs, detection engineering, and security analysis, while creating a portfolio of documented, real-world projects.
 
 ---
 
