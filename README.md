@@ -64,7 +64,7 @@ Demonstrates forensic analysis of Windows host infected with Netsupport RAT, usi
 ### 🔬 Network Intrusion Detection & Prevention with Snort
 Demonstrates Proactive network Defense
 
-🔗 [https://github.com/brunokweka/Network_Analysis-lab](https://github.com/enigmamind/Network-traffic-analysis)
+🔗 [https://github.com/brunokweka/IDS-lab](https://github.com/enigmamind/IDS-pfsense-snort)
 
 ---
 
