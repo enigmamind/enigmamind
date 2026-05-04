@@ -56,6 +56,11 @@ Demonstrates the full vulnerability management lifecycle using Nessus on Linux f
 
 🔗 [https://github.com/brunokweka/vulnerability-lab](https://github.com/enigmamind/vulnerability-lab)
 
+### 🕵️ NetSupport RAT Traffic Forensic & IOC extraction
+Demonstrates forensic analysis of Windows host infected with Netsupport RAT, using wireshark.
+
+🔗 [https://github.com/brunokweka/vulnerability-lab](https://github.com/enigmamind/vulnerability-lab)
+
 ---
 
 > This README is a living portfolio — updated as I build new labs, detections, and security projects.
