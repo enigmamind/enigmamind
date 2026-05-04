@@ -1,5 +1,4 @@
-# Hello, I'm Bruno
-<a href="https://linkedin.com/in/brunokweka"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# Hello, I'm Bruno 
 
 I'm a cybersecurity enthusiast passionate about hands-on learning. I focus on building skills in detection engineering, practical labs, and security analysis, documenting my journey through real-world projects.
 
